@@ -10,7 +10,7 @@ const scrapeHackerNews = async () => {
     
     const response = await axios.get(HACKER_NEWS_URL, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'User-AgeSnt': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
       },
       timeout: 10000,
     });

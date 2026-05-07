@@ -41,7 +41,7 @@
 ```
 NODE_ENV=production
 PORT=3000
-MONGODB_URI=mongodb+srv://user:password@cluster.mongodb.net/mern-news-app?retryWrites=true&w=majority
+MONGODB_URI=yururl
 JWT_SECRET=your_secure_secret_here
 ALLOWED_ORIGINS=https://yourdomain.com,https://www.yourdomain.com
 HACKER_NEWS_URL=https://news.ycombinator.com
